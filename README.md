@@ -13,6 +13,7 @@ No manual ticket writing. No blank-page paralysis. No decisions without evidence
 
 ---
 
+
 ## How to run
 
 Prerequisites: [uv](https://docs.astral.sh/uv/), Python 3.11+.
