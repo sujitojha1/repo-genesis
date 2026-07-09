@@ -3,6 +3,7 @@
 > Give it an idea in plain language. It verifies you're logged into GitHub, creates the repo, refines the idea against 3–5 similar projects found on the live web, derives formal requirements, and publishes traceable issues and milestones — all through the browser, with a replay of everything it did and what it cost.
 
 
+
 ---
 
 ## What is this?
